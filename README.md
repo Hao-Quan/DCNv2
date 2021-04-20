@@ -1,3 +1,5 @@
+## This is the version to run FairMOT on WestWorld
+
 ## Deformable Convolutional Networks V2 with Pytorch 1.X
 
 ### Build
